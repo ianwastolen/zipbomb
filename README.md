@@ -1,1 +1,1 @@
-# zipbomb
+cleaned up code
